@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/bin/Debug/net6.0/Task50
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/bin/Debug/net6.0/Task50.deps.json
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/bin/Debug/net6.0/Task50.runtimeconfig.json
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/bin/Debug/net6.0/Task50.dll
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/bin/Debug/net6.0/Task50.pdb
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/Task50.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/Task50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/Task50.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/Task50.AssemblyInfo.cs
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/Task50.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/Task50.dll
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/refint/Task50.dll
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/Task50.pdb
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/Task50.genruntimeconfig.cache
+/Users/kataryzova/Desktop/HOMEWORK7/Task50/obj/Debug/net6.0/ref/Task50.dll
